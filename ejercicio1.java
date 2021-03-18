@@ -14,6 +14,7 @@ public class ejercicio1 extends Frame {
 
     // clase main principal
     public static void main(String[] args) {
+        System.out.println("hola");
 
         ejercicio1 ventana = new ejercicio1();
         ventana.addWindowListener(new WindowAdapter() {
